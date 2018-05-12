@@ -1,0 +1,33 @@
+_repo: Taking-the-BastileOr-Pitou-the-Peasant--a-Historical-Story-of-the-Great-French-Revolution_45424
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45424-h/images/cover_image.jpg
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas père, Alexandre
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2014-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bastille -- Fiction'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcc 'PQ'
+title: "Taking the Bastile; Or, Pitou the Peasant\r\nA Historical Story of the Great\
+  \ French Revolution"
+url: http://www.gutenberg.org/ebooks/45424
